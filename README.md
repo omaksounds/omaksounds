@@ -1,7 +1,7 @@
 
 # Bakery Sales Report/Dashboard
 
-### File Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/MobileRedirect.html?Context=share-report&reportObjectId=6a15d96e-77db-4113-8929-81926e02ac90&action=OpenReport&reportPage=6ab3a23f547c98ba4b17&bookmarkGuid=83d82362-123c-48a5-a52d-dc09b1c13e6f&groupObjectId=60d622ec-b8e4-42c9-970d-8f8761ae393f&ctid=954680fb-37f7-4e97-b29c-be9800ba9319&pbi_source=mobile_ios)
+### File Link : https://app.powerbi.com/MobileRedirect.html?Context=share-report&reportObjectId=6a15d96e-77db-4113-8929-81926e02ac90&action=OpenReport&reportPage=6ab3a23f547c98ba4b17&bookmarkGuid=83d82362-123c-48a5-a52d-dc09b1c13e6f&groupObjectId=60d622ec-b8e4-42c9-970d-8f8761ae393f&ctid=954680fb-37f7-4e97-b29c-be9800ba9319&pbi_source=mobile_ios
 
 ## Problem Statement
 
